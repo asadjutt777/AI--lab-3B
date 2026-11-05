@@ -1,0 +1,62 @@
+[
+  {
+    "query": "What is required for illness extensions?",
+    "doc": "handbook_late_policy",
+    "evidence": "students facing severe acute illness or sudden personal bereavement may formally request an extension with official medical evidence before the deadline",
+    "split": "dev"
+  },
+  {
+    "query": "How do I reset a forgotten password?",
+    "doc": "it_account_security",
+    "evidence": "Reset a forgotten password using the recovery link sent to your registered backup mobile number",
+    "split": "dev"
+  },
+  {
+    "query": "Where do I upload assignments?",
+    "doc": "portal_submission_rules",
+    "evidence": "Upload assignments through the learning portal in portable document format or packaged zip archives",
+    "split": "dev"
+  },
+  {
+    "query": "Can contractors work remotely?",
+    "doc": "remote_work_contractors",
+    "evidence": "Contractors can work remotely only if the signed contract permits it and specifies remote performance deliverables",
+    "split": "dev"
+  },
+  {
+    "query": "What should I do for blank printer pages?",
+    "doc": "equipment_troubleshooting",
+    "evidence": "For blank printer pages, check ink levels and run the cleaning utility through the diagnostic maintenance console",
+    "split": "test"
+  },
+  {
+    "query": "How can I recover my login access?",
+    "doc": "it_account_security",
+    "evidence": "Reset a forgotten password using the recovery link sent to your registered backup mobile number",
+    "split": "test"
+  },
+  {
+    "query": "How should I hand in my coursework?",
+    "doc": "portal_submission_rules",
+    "evidence": "Upload assignments through the learning portal in portable document format or packaged zip archives",
+    "split": "test"
+  },
+  {
+    "query": "What proof is needed when I was ill?",
+    "doc": "handbook_late_policy",
+    "evidence": "students facing severe acute illness or sudden personal bereavement may formally request an extension with official medical evidence before the deadline",
+    "split": "test"
+  },
+  {
+    "query": "What are tomorrow's flight prices to London?",
+    "doc": null,
+    "evidence": null,
+    "split": "test"
+  },
+  {
+    "query": "Who won the premier league football match?",
+    "doc": null,
+    "evidence": null,
+    "split": "test"
+  }
+]
